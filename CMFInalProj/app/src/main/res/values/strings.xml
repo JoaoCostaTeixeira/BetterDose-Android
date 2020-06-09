@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BetterDose</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="google_maps_key">AIzaSyBl0ViebxC-IsUTTBsO7IrXiXt0-M5YXU8</string>
+</resources>

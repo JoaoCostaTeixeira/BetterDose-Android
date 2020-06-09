@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "Alarm">
+        ALARM
+    </string>
+    <string name = "House">
+        House
+    </string>
+
+    <string name = "Medicin">
+        Medicine
+    </string>
+
+    <string name = "Pharmacy">
+        Pharmacy
+    </string>
+</resources>
