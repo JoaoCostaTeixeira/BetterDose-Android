@@ -153,7 +153,7 @@ public class get_location extends Fragment  {
 
         private void getFarm() {
             String charset = "UTF-8";
-            final String URL2 = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location="+latitude + ','+longitude +"&rankby=distance&language=pt-PT&types=pharmacy&key=AIzaSyAJWnpsN6ex46vpLXYE_A8qeuo776cgHsA";
+            final String URL2 = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location="+latitude + ','+longitude +"&rankby=distance&language=pt-PT&types=pharmacy&key=API_KEY";
             HttpURLConnection connection = null;
             try {
 
